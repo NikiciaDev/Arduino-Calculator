@@ -1,6 +1,6 @@
 # Arduino-Calculator
 
-## You can find the documentation [here](https://github.com/NikiciaDev/Arduino-Calculator/wiki).
+## You can find the documentation [here](https://github.com/NikiciaDev/Arduino-Calculator/wiki/Prolog).
 
 ## Required libraries:
 
