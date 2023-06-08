@@ -4,9 +4,9 @@
 
 ## Required libraries:
 
-### Vector Library -> https://github.com/janelia-arduino/Vector
+### Vector Library: https://github.com/janelia-arduino/Vector
 
-### Keypad Library -> https://github.com/Chris--A/Keypad
+### Keypad Library: https://github.com/Chris--A/Keypad
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
