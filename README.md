@@ -1,8 +1,10 @@
 # Arduino-Calculator
-A ported version of: "https://github.com/NikiciaDev/Calculator" for Arduino UNO
+A ported version of: "https://github.com/NikiciaDev/Calculator" for Arduino UNO.
 
-Required libraries:
+## You can find the documentation (here)[https://github.com/NikiciaDev/Arduino-Calculator/wiki].
 
-https://github.com/janelia-arduino/Vector
+## Required libraries:
 
-https://github.com/Chris--A/Keypad
+### Vector Library -> https://github.com/janelia-arduino/Vector
+
+### Keypad Library -> https://github.com/Chris--A/Keypad
