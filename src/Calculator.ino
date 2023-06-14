@@ -44,8 +44,7 @@ void loop() {
       if(mu::verifyEquationValidity(equation)) {
         eu::extractNumbersAndOperators(equation, *numbers, *operators);
         if(numbers->size() == 1) goto Invalid;
-        String result(mu::solve(*numbers, *operators).value, 5);
-        Serial.print(equation + " = "); Serial.println(result);
+        Serial.print(equation + " = "); Serial.println(mu::solve(*numbers, *operators).value, 5);
         numbers->clear();
         operators->clear();
         equation = "";
